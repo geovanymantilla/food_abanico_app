@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334479890619",
+    "project_id": "my-food-app-1346e",
+    "storage_bucket": "my-food-app-1346e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334479890619:android:1050e4c527a76c2475f19e",
+        "android_client_info": {
+          "package_name": "co.edu.ufps.food_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334479890619-7pd98b07bl8m9ac0cd1p92r3lusk98q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9_-_umNMo5GGBa9fAgvyG4bBLukJnaBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334479890619-7pd98b07bl8m9ac0cd1p92r3lusk98q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
