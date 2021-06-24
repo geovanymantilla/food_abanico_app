@@ -2,9 +2,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:food_flutter_app/homeScreens/wrapper.dart';
-import 'package:food_flutter_app/screens/Authentication/authentication.dart';
-import 'package:food_flutter_app/screens/Authentication/login.dart';
-import 'package:food_flutter_app/screens/Authentication/register.dart';
 import 'package:food_flutter_app/services/authentication_services/auth_services.dart';
 import 'package:provider/provider.dart';
 
